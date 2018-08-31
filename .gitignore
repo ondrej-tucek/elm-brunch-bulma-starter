@@ -1,0 +1,20 @@
+# Backup
+*~
+
+.envs
+.vimrc
+.projections.json
+
+# tags
+tags
+tags.*
+*.tags
+
+# Node
+node_modules
+npm-debug.log
+
+# Elm
+elm-stuff
+_build/**
+!_build/index.html
